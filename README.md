@@ -6,6 +6,6 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 
 #### Get in touch
 
-🌏 I mess around with web stuff at [campegg.com](https://campegg.com/).
+🌏 I play with web stuff at [campegg.com](https://campegg.com/).
 
 📫  You can find me on [Twitter](https://twitter.com/campegg) or [LinkedIn](https://www.linkedin.com/in/campegg), or you can go old-school and [email](mailto:cam@campegg.com) me.
