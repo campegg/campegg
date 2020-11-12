@@ -6,8 +6,7 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 
 #### 📚 Currently Reading
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BOOK-LIST:START --><!-- BOOK-LIST:END -->
 
 #### 📫 Get in touch
 
