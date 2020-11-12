@@ -6,7 +6,12 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 
 #### 📚 Currently Reading
 
-<!-- BOOK-LIST:START --><!-- BOOK-LIST:END -->
+<!-- BOOK-LIST:START -->
+- [The Murder on the Links by Agatha Christie](https://bookshop.org/a/3428/9780525565086)
+- [Critical Thinking by Jonathan Haber](https://bookshop.org/a/3428/9780262538282)
+- [How to Take Smart Notes by Sönke Ahrens](https://bookshop.org/a/3428/9781542866507)
+- [Thinking in Systems by Donella Meadows](https://bookshop.org/a/3428/9781603580557)
+<!-- BOOK-LIST:END -->
 
 #### 📫 Get in touch
 
