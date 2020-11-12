@@ -18,3 +18,4 @@ jobs:
               with:
                   feed_list: "https://campegg.com/feed/books.xml"
                   comment_tag_name: "BOOK-LIST"
+                  commit_message: "Updated with latest reading list"
