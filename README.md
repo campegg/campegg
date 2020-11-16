@@ -7,7 +7,7 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
-- [The Murder on the Links by Agatha Christie](https://bookshop.org/a/3428/9780525565086)
+- [How to Read a Book by Mortimer J. Adler &amp; Charles Van Doren](https://bookshop.org/a/3428/9780671212094)
 - [Critical Thinking by Jonathan Haber](https://bookshop.org/a/3428/9780262538282)
 - [How to Take Smart Notes by Sönke Ahrens](https://bookshop.org/a/3428/9781542866507)
 - [Thinking in Systems by Donella Meadows](https://bookshop.org/a/3428/9781603580557)
