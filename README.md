@@ -7,6 +7,7 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
+- [Death on the Nile by Agatha Christie](https://bookshop.org/a/3428/9780062073556)
 - [How to Read a Book by Mortimer J. Adler &amp; Charles Van Doren](https://bookshop.org/a/3428/9780671212094)
 - [Critical Thinking by Jonathan Haber](https://bookshop.org/a/3428/9780262538282)
 - [How to Take Smart Notes by Sönke Ahrens](https://bookshop.org/a/3428/9781542866507)
