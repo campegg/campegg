@@ -7,7 +7,7 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
-- [Peril at End House by Agatha Christie](https://bookshop.org/a/3428/9780062074027)
+- [Asterix Omnibus #3 by René Goscinny &amp; Albert Uderzo](https://bookshop.org/a/3428/9781545805718)
 - [The 99% Invisible City by Roman Mars &amp; Kurt Kohlstedt](https://bookshop.org/a/3428/9780358126607)
 - [How to Read a Book by Mortimer J. Adler &amp; Charles Van Doren](https://bookshop.org/a/3428/9780671212094)
 - [Critical Thinking by Jonathan Haber](https://bookshop.org/a/3428/9780262538282)
