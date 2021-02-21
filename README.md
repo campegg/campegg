@@ -7,10 +7,8 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
-- [The Mystery of the Blue Train by Agatha Christie](https://bookshop.org/a/3428/9780062073976)
 - [Storm in a Teacup by Helen Czerski](https://bookshop.org/a/3428/9780393355475)
 - [The 99% Invisible City by Roman Mars &amp; Kurt Kohlstedt](https://bookshop.org/a/3428/9780358126607)
-- [How to Read a Book by Mortimer J. Adler &amp; Charles Van Doren](https://bookshop.org/a/3428/9780671212094)
 <!-- BOOK-LIST:END -->
 
 #### 📫 Get in touch
