@@ -7,8 +7,8 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
-- [Storm in a Teacup by Helen Czerski](https://bookshop.org/a/3428/9780393355475)
-- [The 99% Invisible City by Roman Mars &amp; Kurt Kohlstedt](https://bookshop.org/a/3428/9780358126607)
+- [The Physics of Star Wars by Patrick Johnson](https://bookshop.org/a/3428/9781507203309)
+- [Fermat's Last Theorem by Amir D. Azcel](https://bookshop.org/a/3428/9781568583600)
 <!-- BOOK-LIST:END -->
 
 #### 📫 Get in touch
