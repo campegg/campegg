@@ -7,6 +7,7 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
+- [Strategy Strikes Back by Max Brooks &amp; John Amble](https://bookshop.org/a/3428/9781640123601)
 - [The Physics of Star Wars by Patrick Johnson](https://bookshop.org/a/3428/9781507203309)
 - [Fermat's Last Theorem by Amir D. Azcel](https://bookshop.org/a/3428/9781568583600)
 <!-- BOOK-LIST:END -->
