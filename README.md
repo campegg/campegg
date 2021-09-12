@@ -7,7 +7,6 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 #### 📚 Currently Reading
 
 <!-- BOOK-LIST:START -->
-- [Kitchen Confidential by Anthony Bourdain](https://bookshop.org/a/3428/9780060899226)
 - [Strategy Strikes Back by Max Brooks &amp; John Amble](https://bookshop.org/a/3428/9781640123601)
 - [Fermat's Last Theorem by Amir D. Azcel](https://bookshop.org/a/3428/9781568583600)
 <!-- BOOK-LIST:END -->
