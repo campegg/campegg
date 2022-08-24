@@ -4,4 +4,4 @@ I’m not a “real” developer by any stretch of the imagination, but I do enj
 
 #### 📫 Get in touch
 
-I play with web stuff at [campegg.com](https://campegg.com/), or you can (very infrequently) find me on [Twitter](https://twitter.com/campegg) or [LinkedIn](https://www.linkedin.com/in/campegg). If you want to kick it old-school, you can also [email](mailto:cam@campegg.com) me.
+I play with web stuff at [campegg.com](https://campegg.com/), or you can (very infrequently) find me on [Twitter](https://twitter.com/campegg), [Mastodon](https://mastodon.social/@campegg) or [LinkedIn](https://www.linkedin.com/in/campegg). If you want to kick it old-school, you can also [email](mailto:cam@campegg.com) me.
